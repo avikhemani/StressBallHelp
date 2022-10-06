@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 **Last updated**  
-April 4, 2020
+October 5, 2022
 
 # Terms of Use
 
@@ -19,14 +19,11 @@ Supplemental terms and conditions or documents that may be posted on the Site fr
 
 We will alert you about any changes by updating the “Last updated” date of these Terms and Conditions, and you waive any right to receive specific notice of each such change.
 
-
-
-
 It is your responsibility to periodically review these Terms and Conditions to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms and Conditions by your continued use of the Site after the date such revised Terms and Conditions are posted.
 
 The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country.
 
-Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable. 
+Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.
 
 All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Site. If you are a minor, you must have your parent or guardian read and agree to these Terms and Conditions prior to you using the Site.
 
@@ -58,41 +55,47 @@ By using the Site, you represent and warrant that:
 
 If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof).
 
+## SUBSCRIPTIONS
+
+Stress Ball offers an optional, auto-renewing monthly subscription for $4.99/month, or an annual subscription for $29.99. The payment will be charged to your iTunes account at confirmation of purchase. Your account will be charged for renewal within 24-hours prior to the end of the current period.
+
+Your subscription to Stress Ball will automatically renew unless you disable auto-renew at least 24 hours before the current period ends. You can turn off auto-review or manage your subscription from your iTunes Store account settings. Any unused portion of a free trial, if offered, will be forfeited when the user purchases a Stress Ball Pro subscription.
+
 ## USER REGISTRATION
 
 You may be required to register with the Site. You agree to keep your password confidential and will be responsible for all use of your account and password. We reserve the right to remove, reclaim, or change a username you select if we determine, in our sole discretion, that such username is inappropriate, obscene, or otherwise objectionable.
- 
+
 ## PROHIBITED ACTIVITIES
 
 You may not access or use the Site for any purpose other than that for which we make the Site available. The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.
 
 As a user of the Site, you agree not to:
 
-	•	systematically retrieve data or other content from the Site to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
-	•	make any unauthorized use of the Site, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
-	•	use a buying agent or purchasing agent to make purchases on the Site.
-	•	use the Site to advertise or offer to sell goods and services.
-	•	circumvent, disable, or otherwise interfere with security-related features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.
-	•	engage in unauthorized framing of or linking to the Site.
-	•	trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords;
-	•	make improper use of our support services or submit false reports of abuse or misconduct.
-	•	engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
-	•	interfere with, disrupt, or create an undue burden on the Site or the networks or services connected to the Site.
-	•	attempt to impersonate another user or person or use the username of another user.
-	•	sell or otherwise transfer your profile.
-	•	use any information obtained from the Site in order to harass, abuse, or harm another person.
-	•	use the Site as part of any effort to compete with us or otherwise use the Site and/or the Content for any revenue-generating endeavor or commercial enterprise.
-	•	decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Site.
-	•	attempt to bypass any measures of the Site designed to prevent or restrict access to the Site, or any portion of the Site.
-	•	harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Site to you.
-	•	delete the copyright or other proprietary rights notice from any Content.
-	•	copy or adapt the Site’s software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
-	•	upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site.
-	•	upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as “spyware” or “passive collection mechanisms” or “pcms”).
-	•	except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
-	•	disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.
-	•	use the Site in a manner inconsistent with any applicable laws or regulations.
-	•	[other]
+    •	systematically retrieve data or other content from the Site to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
+    •	make any unauthorized use of the Site, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
+    •	use a buying agent or purchasing agent to make purchases on the Site.
+    •	use the Site to advertise or offer to sell goods and services.
+    •	circumvent, disable, or otherwise interfere with security-related features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.
+    •	engage in unauthorized framing of or linking to the Site.
+    •	trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords;
+    •	make improper use of our support services or submit false reports of abuse or misconduct.
+    •	engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
+    •	interfere with, disrupt, or create an undue burden on the Site or the networks or services connected to the Site.
+    •	attempt to impersonate another user or person or use the username of another user.
+    •	sell or otherwise transfer your profile.
+    •	use any information obtained from the Site in order to harass, abuse, or harm another person.
+    •	use the Site as part of any effort to compete with us or otherwise use the Site and/or the Content for any revenue-generating endeavor or commercial enterprise.
+    •	decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Site.
+    •	attempt to bypass any measures of the Site designed to prevent or restrict access to the Site, or any portion of the Site.
+    •	harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Site to you.
+    •	delete the copyright or other proprietary rights notice from any Content.
+    •	copy or adapt the Site’s software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
+    •	upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site.
+    •	upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as “spyware” or “passive collection mechanisms” or “pcms”).
+    •	except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
+    •	disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.
+    •	use the Site in a manner inconsistent with any applicable laws or regulations.
+    •	[other]
 
 ## USER GENERATED CONTRIBUTIONS
 
@@ -100,20 +103,20 @@ The Site may invite you to chat, contribute to, or participate in blogs, message
 
 Contributions may be viewable by other users of the Site and through third-party websites. As such, any Contributions you transmit may be treated as non-confidential and non-proprietary. When you create or make available any Contributions, you thereby represent and warrant that:
 
-	•	the creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
-	•	you are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Site, and other users of the Site to use your Contributions in any manner contemplated by the Site and these Terms and Conditions.
-	•	you have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Site and these Terms and Conditions.
-	•	your Contributions are not false, inaccurate, or misleading.
-	•	your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
-	•	your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
-	•	your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
-	•	your Contributions do not advocate the violent overthrow of any government or incite, encourage, or threaten physical harm against another.
-	•	your Contributions do not violate any applicable law, regulation, or rule.
-	•	your Contributions do not violate the privacy or publicity rights of any third party.
-	•	your Contributions do not contain any material that solicits personal information from anyone under the age of 18 or exploits people under the age of 18 in a sexual or violent manner.
-	•	your Contributions do not violate any federal or state law concerning child pornography, or otherwise intended to protect the health or well-being of minors;
-	•	your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
-	•	your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms and Conditions, or any applicable law or regulation.
+    •	the creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.
+    •	you are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Site, and other users of the Site to use your Contributions in any manner contemplated by the Site and these Terms and Conditions.
+    •	you have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Site and these Terms and Conditions.
+    •	your Contributions are not false, inaccurate, or misleading.
+    •	your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
+    •	your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).
+    •	your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.
+    •	your Contributions do not advocate the violent overthrow of any government or incite, encourage, or threaten physical harm against another.
+    •	your Contributions do not violate any applicable law, regulation, or rule.
+    •	your Contributions do not violate the privacy or publicity rights of any third party.
+    •	your Contributions do not contain any material that solicits personal information from anyone under the age of 18 or exploits people under the age of 18 in a sexual or violent manner.
+    •	your Contributions do not violate any federal or state law concerning child pornography, or otherwise intended to protect the health or well-being of minors;
+    •	your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
+    •	your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms and Conditions, or any applicable law or regulation.
 
 Any use of the Site in violation of the foregoing violates these Terms and Conditions and may result in, among other things, termination or suspension of your rights to use the Site.
 
@@ -125,10 +128,10 @@ This license will apply to any form, media, or technology now known or hereafter
 
 We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Site.
 
-You are solely responsible for your Contributions to the Site and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.  
+You are solely responsible for your Contributions to the Site and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.
 
 We have the right, in our sole and absolute discretion, (1) to edit, redact, or otherwise change any Contributions; (2) to re-categorize any Contributions to place them in more appropriate locations on the Site; and (3) to pre-screen or delete any Contributions at any time and for any reason, without notice. We have no obligation to monitor your Contributions.
-  
+
 ## GUIDELINES FOR REVIEWS
 
 We may provide you areas on the Site to leave reviews or ratings. When posting a review, you must comply with the following criteria:
@@ -152,7 +155,7 @@ We may provide you areas on the Site to leave reviews or ratings. When posting a
 We may accept, reject, or remove reviews in our sole discretion. We have absolutely no obligation to screen reviews or to delete reviews, even if anyone considers reviews objectionable or inaccurate. Reviews are not endorsed by us, and do not necessarily represent our opinions or the views of any of our affiliates or partners.
 
 We do not assume liability for any review or for any claims, liabilities, or losses resulting from any review. By posting a review, you hereby grant to us a perpetual, non-exclusive, worldwide, royalty-free, fully-paid, assignable, and sublicensable right and license to reproduce, modify, translate, transmit by any means, display, perform, and/or distribute all content relating to reviews.
-  
+
 ## MOBILE APPLICATION LICENSE
 
 Use License
@@ -191,7 +194,7 @@ The following terms apply when you use a mobile application obtained from either
 
 (5) you must comply with applicable third-party terms of agreement when using the mobile application, e.g., if you have a VoIP application, then you must not be in violation of their wireless data service agreement when using the mobile application;
 
-6) you acknowledge and agree that the App Distributors are third-party beneficiaries of the terms and conditions in this mobile application license contained in these Terms and Conditions, and that each App Distributor will have the right (and will be deemed to have accepted the right) to enforce the terms and conditions in this mobile application license contained in these Terms and Conditions against you as a third-party beneficiary thereof.  
+6. you acknowledge and agree that the App Distributors are third-party beneficiaries of the terms and conditions in this mobile application license contained in these Terms and Conditions, and that each App Distributor will have the right (and will be deemed to have accepted the right) to enforce the terms and conditions in this mobile application license contained in these Terms and Conditions against you as a third-party beneficiary thereof.
 
 ## SOCIAL MEDIA
 
@@ -218,7 +221,6 @@ You acknowledge and agree that any questions, comments, suggestions, ideas, feed
 
 You hereby waive all moral rights to any such Submissions, and you hereby warrant that any such Submissions are original with you or that you have the right to submit such Submissions. You agree there shall be no recourse against us for any alleged or actual infringement or misappropriation of any proprietary right in your Submissions.
 
-
 ## THIRD-PARTY WEBSITES AND CONTENT
 
 The Site may contain (or you may be sent via the Site) links to other websites ("Third-Party Websites") as well as articles, photographs, text, graphics, pictures, designs, music, sound, video, information, applications, software, and other content or items belonging to or originating from third parties ("Third-Party Content").
@@ -237,11 +239,11 @@ We allow advertisers to display their advertisements and other information in ce
 
 Further, as an advertiser, you warrant and represent that you possess all rights and authority to place advertisements on the Site, including, but not limited to, intellectual property rights, publicity rights, and contractual rights.
 
-[As an advertiser, you agree that such advertisements are subject to our Digital Millennium Copyright Act (“DMCA”) Notice and Policy provisions as described below, and you understand and agree there will be no refund or other compensation for DMCA takedown-related issues.] We simply provide the space to place such advertisements, and we have no other relationship with advertisers.   
- 
+[As an advertiser, you agree that such advertisements are subject to our Digital Millennium Copyright Act (“DMCA”) Notice and Policy provisions as described below, and you understand and agree there will be no refund or other compensation for DMCA takedown-related issues.] We simply provide the space to place such advertisements, and we have no other relationship with advertisers.
+
 ## SITE MANAGEMENT
 
-We reserve the right, but not the obligation, to: 
+We reserve the right, but not the obligation, to:
 
 (1) monitor the Site for violations of these Terms and Conditions;
 
@@ -308,8 +310,7 @@ Please note that if you materially misrepresent that the disabled or removed con
 Designated Copyright Agent
 [Name]
 Attn: Copyright Agent
-[Address]
-[City, State Zip]
+[Address][city, state zip]
 [email]
 
 ## COPYRIGHT INFRINGEMENTS
@@ -347,7 +348,7 @@ These Terms and Conditions and your use of the Site are governed by and construe
 Any legal action of whatever nature brought by either you or us (collectively, the “Parties” and individually, a “Party”) shall be commenced or prosecuted in the state and federal courts located in Los Angeles County, California, and the Parties hereby consent to, and waive all defenses of lack of personal jurisdiction and forum non conveniens with respect to venue and jurisdiction in such state and federal courts.
 
 Application of the United Nations Convention on Contracts for the International Sale of Goods and the Uniform Computer Information Transaction Act (UCITA) are excluded from these Terms and Conditions. In no event shall any claim, action, or proceeding brought by either Party related in any way to the Site be commenced more than 2 years after the cause of action arose.
- 
+
 ## CORRECTIONS
 
 There may be information on the Site that contains typographical errors, inaccuracies, or omissions that may relate to the Site, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Site at any time, without prior notice.
@@ -357,7 +358,7 @@ There may be information on the Site that contains typographical errors, inaccur
 THE SITE IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SITE AND OUR SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SITE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SITE’S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE SITE AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SITE, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SITE. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SITE, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES.
 
 AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.
- 
+
 ## LIMITATIONS OF LIABILITY
 
 IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SITE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
@@ -370,7 +371,7 @@ IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS OR LIMITATIONS 
 
 You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys’ fees and expenses, made by any third party due to or arising out of: (1) [your Contributions]; (2) use of the Site; (3) breach of these Terms and Conditions; (4) any breach of your representations and warranties set forth in these Terms and Conditions; (5) your violation of the rights of a third party, including but not limited to intellectual property rights; or (6) any overt harmful act toward any other user of the Site with whom you connected via the Site.
 
-Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it. 
+Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.
 
 ## USER DATA
 
